@@ -1,6 +1,7 @@
 - node scripts/store-asset.mjs
 
 * Metadata stored on Filecoin and IPFS with
+
 * URL: ipfs://bafyreiesbkaa4bphh3pb2qemhlupb7si457gjz4octoubqulnvejdugq34/metadata.json
 
 - npx hardhat run scripts/deploy-contract.mjs --network PolygonMumbai
